@@ -1,0 +1,2 @@
+# Stellar
+(Another) astronomy app.
